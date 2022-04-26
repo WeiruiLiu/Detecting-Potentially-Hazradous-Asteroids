@@ -44,7 +44,8 @@ This data is taken from Kaggle. The uploader collected this dataset officially m
 
 # How it Works
 1. Read **Final Presentation PPT.pptx**.
-2. Check python code click [Github Pages](https://weiruiliu.github.io/Machne-Learning-MLP-Detecting-Potentially-Hazradous-Asteroids/Detecting_Potentially_Hazardous_Asteroids.html).
+2. Read **Final Report.pdf**.
+3. Check python code click [Github Pages](https://weiruiliu.github.io/Machne-Learning-MLP-Detecting-Potentially-Hazradous-Asteroids/Detecting_Potentially_Hazardous_Asteroids.html).
 
 **If any problem in code, going to Zheyue Wang GitHub click [Here](https://github.com/zheyue/Detecting-Potentially-Hazradous-Asteroids).**
 
