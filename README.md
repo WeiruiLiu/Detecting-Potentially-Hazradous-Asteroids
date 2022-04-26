@@ -44,5 +44,7 @@ This data is taken from Kaggle. The uploader collected this dataset officially m
 
 # How it Works
 1. Read **Final Presentation PPT.pptx**.
+2. Check python code click [Github Pages]().
+
 
 
