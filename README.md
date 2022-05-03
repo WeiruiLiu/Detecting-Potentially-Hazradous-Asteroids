@@ -32,7 +32,7 @@ This data is taken from Kaggle. The uploader collected this dataset officially m
     * XGBoost
     * Decision Tree
     * Naive Bayes
-    * Logitic Regression
+    * Logistic Regression
     * Support Vector Machine (SVM)
     * K-Nearest Neighbors (KNN)
   * Neural Network
